@@ -16,7 +16,7 @@ The project is fully pre-configured for one-click deployment on **Vercel** with 
    - **Framework Preset**: `Vite`
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
-   - **Install Command**: `npm install`
+   - **Install Command**: `npm install --legacy-peer-deps`
 4. Click **Deploy**. Your app will be live with a production URL in ~45 seconds.
 
 ### Option 2: Deploy via Vercel CLI
