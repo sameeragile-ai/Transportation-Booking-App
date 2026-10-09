@@ -1,0 +1,6 @@
+{
+  "name": "Velox Mobility - On-Demand Ride Platform & Dispatch Suite",
+  "description": "Interactive prototype and technical proposal for an enterprise cross-platform mobility booking platform featuring real-time rider dispatch, driver telemetry, Twilio number-masking, and executive architecture hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
